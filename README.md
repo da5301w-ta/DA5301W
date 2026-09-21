@@ -219,9 +219,8 @@ By completing this assignment you will practise:
 
 4. Submit the link to your repository / notebook as instructed by the course staff.
 
-**Deadline:** `<DEADLINE_DATE>`
+**Deadline:** `28 September 2026`
 
 ---
 
 **Course:** DA5301W – Python for Data Science
-**Instructor / TAs:** `<NAMES / CONTACT>`
